@@ -28,5 +28,6 @@ Please remember to properly configure your video source and adjust any necessary
 Feel free to explore, modify, and adapt the code in this repository to suit your needs. If you have any questions or need further assistance, don't hesitate to reach out. Happy anomaly detection!
 
 # 2. Demo
-![Video Title](video_SSS.mkv)
+[![Video Title](https://vimeo.com/835170706)](https://vimeo.com/835170706)
+
 
