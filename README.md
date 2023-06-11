@@ -26,3 +26,7 @@ pip install -r requirements.txt
 Please remember to properly configure your video source and adjust any necessary settings in the code to fit your specific use case.
 
 Feel free to explore, modify, and adapt the code in this repository to suit your needs. If you have any questions or need further assistance, don't hesitate to reach out. Happy anomaly detection!
+
+# 2. Demo
+![Video Title](video_SSS.mkv)
+
